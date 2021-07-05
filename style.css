@@ -33,3 +33,14 @@ section{display: flex;
 h3{font-size: 100%;
     color: rgb(255, 0, 149);
  }
+
+ .link-button{
+     text-decoration: none;
+     background-image: linear-gradient(rgb(0, 152, 223), rgb(0, 214, 132) );
+     border-radius: 30px;
+     font-weight: 700;
+     color: white;
+     padding-top: 5px;
+     padding-bottom: 30px;
+     padding-left: 50px;
+     padding-right: 50px;
