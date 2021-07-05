@@ -4,4 +4,32 @@ body {
     font-family: 'Poiret One', cursive;
     text-align: center;
     font: large;
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+  background-size: 8000px ;
+  font-size: 50%;
+    
   }
+div{font-size: 150px;
+border: tomato;
+}
+section{display: flex;
+    color: white;
+    padding-top: 5%;
+    margin-bottom: 200px;
+
+
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+    margin-right: 5%;
+}
+
+.half-width img{
+    width: 90%;
+    
+}
+h3{font-size: 100%;
+    color: rgb(255, 0, 149);
+ }
