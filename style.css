@@ -6,7 +6,7 @@ body {
     font: large;
     background-repeat: no-repeat;
     background-repeat: no-repeat;
-  background-size: 8000px ;
+  background-size: 100px;
   font-size: 50%;
     
   }
@@ -36,7 +36,7 @@ h3{font-size: 100%;
 
  .link-button{
      text-decoration: none;
-     background-image: linear-gradient(rgb(0, 152, 223), rgb(0, 214, 132) );
+     background-image: linear-gradient(rgb(0, 152, 223), rgb(0, 177, 109) );
      border-radius: 30px;
      font-weight: 700;
      color: white;
